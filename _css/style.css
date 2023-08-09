@@ -1,0 +1,78 @@
+nav#menu ul{
+  text-transform: uppercase; /* transforma as falavras em caixa alta*/
+  list-style: none;
+  position: absolute;
+  top: 40px;
+  left: 790px;
+}
+nav#menu{
+  display: block;
+}
+nav#menu li{
+  display: inline-block;
+  background-color: hsl(310, 70%, 78%);
+  padding: 15px;
+}
+nav#menu h1{
+   display: none;
+}
+body{
+  background-color:hsl(310, 64%, 84%);
+  margin: 0px; /* coloca a margem em zero p */
+} 
+header{
+  background-color: rgb(198, 160, 247);
+  padding-top: 70px;
+  padding-bottom: 60px;
+  position: relative;
+  }
+
+nav#menu a:link{
+text-decoration: none;
+color: rgb(193, 66, 252);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+}
+
+nav#menu a:visited {
+  color: rgb(193, 66, 252);
+  }
+
+  nav#menu a:hover{
+  color: rgb(251, 255, 255);
+  transition: all 0.9s ease;
+  }
+
+img{
+ width: 15%;
+left: 50%;
+top: 102%;
+margin-right: 260px;
+} 
+h1{
+  text-transform: uppercase;
+  list-style: none;
+  position: absolute;
+  top: 45px;
+  left: 550px;
+  bottom: 30px;
+} 
+
+h3{
+  text-transform: uppercase;
+  list-style: none;
+  position: absolute;
+  top: -80px;
+  left: 10px;
+  bottom: 1000px;
+font-size: 100px;
+}
+
+
+
+
+
+ 
+ 
+
+  
