@@ -4,8 +4,8 @@ Um site para vendas
 
 ##  O que foi vendido no projeto
 Produtos de skin care:
-Ruby Rose
-Knut
+Ruby Rose,
+Knut e
 Lees
 
 ## Construído com
