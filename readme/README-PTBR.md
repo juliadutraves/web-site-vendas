@@ -5,13 +5,11 @@ Um site para vendas
 ## 🧴🪄 O que foi vendido no projeto
 Produtos de skin care:
 
-´´´´
-dadakjfajf
-´´´´
+Move, Phallebeuty, Lisa,Lees, Absolut, Ruby Rose e Foreo
 
 ## 🪄Imagens do projeto
 
-<img src=
+![gif do projeto](img/produtos.gif)
 
 ## 👩🏻‍💻Construído com
 
