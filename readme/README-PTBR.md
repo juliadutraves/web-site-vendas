@@ -9,7 +9,7 @@ Move, Phallebeuty, Lisa,Lees, Absolut, Ruby Rose e Foreo
 
 ## 🪄Imagens do projeto
 
-![gif do projeto](img/produtos.gif)
+![Imagem do projeto](img/produtos.gif)
 
 ## 👩🏻‍💻Construído com
 
