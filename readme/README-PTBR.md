@@ -2,17 +2,22 @@
 
 Um site para vendas 
 
-##  O que foi vendido no projeto
+## 🧴🪄 O que foi vendido no projeto
 Produtos de skin care:
-´´´
- Ruby Rose 
-´´´
 
-## Construído com
+´´´´
+dadakjfajf
+´´´´
+
+## 🪄Imagens do projeto
+
+<img src=
+
+## 👩🏻‍💻Construído com
 
 * [html.com]
 
-## Autores
+## 🪄Autores
 
 criação independente
 
