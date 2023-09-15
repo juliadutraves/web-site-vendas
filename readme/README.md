@@ -8,7 +8,8 @@ Move, Phallebeuty, Lisa,Lees, Absolut, Ruby Rose e Foreo
 
 ## 🪄Imagens do projeto
 
-<img src="imagem/produtos.gif">
+![](img/produtos.gif)
+<img src="img/produtos.gif">
 
 ## 👩🏻‍💻Construído com
 
